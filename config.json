@@ -1,0 +1,7 @@
+{
+    "repository": {
+      "server": "proxysql.master.meliseginf.com",
+      "port": "6612",
+      "databaseConfiguration": "calcProd"
+    }
+  }
